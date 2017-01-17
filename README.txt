@@ -1,0 +1,1 @@
+This project was made on netbeans, i recommend to run it on netbeans.
